@@ -15,6 +15,12 @@ Second step: we use  Resnet50, InceptionV3, DenseNet169, and MobileNetV2  to pre
 <br />
 Thirsd step: the evaluation of the hybrid PPDL is based on some parameters. 
 
+###Requirement
+* Python 3.9.0
+* scikit-image 0.19.3
+* Numpy 1.19.5
+* Pillow 9.2.0
+
 ### Usage
 * Clone the Repository:
 ```ruby
