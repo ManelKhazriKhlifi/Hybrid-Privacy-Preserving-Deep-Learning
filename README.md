@@ -9,9 +9,11 @@ This model has three steps that are shown below:
 
 ![tree](GA.png)
 
-#First step: encrypt the data with the hybrid PPDL
-#Second step: we use  Resnet50, InceptionV3, DenseNet169, and MobileNetV2  to predict the classification of class data
-#Thirsd step: the evaluation of the hybrid PPDL is based on  
+First step: encrypt the data with the hybrid PPDL.
+<br />
+Second step: we use  Resnet50, InceptionV3, DenseNet169, and MobileNetV2  to predict the classification of class data
+<br />
+Thirsd step: the evaluation of the hybrid PPDL is based on some parameters. 
 
 ### Usage
 * Clone the Repository:
