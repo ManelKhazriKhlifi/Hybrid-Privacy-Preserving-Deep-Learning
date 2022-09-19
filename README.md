@@ -55,9 +55,4 @@ DOI = {10.3390/rs14184631}
 }
 
 '''
-@article{boulila2022securing,
-  title={Securing the Classification of COVID-19 in Chest X-ray Images: A Privacy-Preserving Deep Learning Approach},
-  author={Boulila, Wadii and Ammar, Adel and Benjdira, Bilel and Koubaa, Anis},
-  journal={arXiv preprint arXiv:2203.07728},
-  year={2022}
-}
+
