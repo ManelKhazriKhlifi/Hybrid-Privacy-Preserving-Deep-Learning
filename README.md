@@ -5,6 +5,7 @@ This repository contains the code for the following publication "A Hybrid Privac
 This repository is the approach designed to encrypt high resolution remote sensing imagery. It uses a hybrid approach to encrypt remote sensing datasets. The hybrid PPDL approach uses the combination of partially homomorphic encryption and somewhat homomorphic encryption from generated keys. The advantage of this approach is to ensure the confidentiality of useful information in the image.
 
 ## Dataset Details
+Remote sensing data from seven cities in Saudi Arabia (Al Madinah, Riyadh, Jeddah, Al Qassim, Al Qatif, Hail and Dammam) were divided into non-overlapping 256x256 blocks. These images are encrypted by the proposed approach. After encrypting them, this dataset is used to train four CNN models. 
 
 ## Model Details
 This model has three steps that are shown below:
