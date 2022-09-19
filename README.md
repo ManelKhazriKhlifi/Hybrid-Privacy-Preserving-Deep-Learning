@@ -9,13 +9,18 @@ This model has three steps that are shown below:
 
 ![tree](GA.png)
 
+### Usage
+* Clone the Repository:
+```ruby
+  
+```
 
 ### Citation
 
 If you use any part of this work please cite using the following Bibtex format:
 ```
 @Article {rs14184631,
-AUTHOR = {Boulila, Wadii and  Khazri Khlifi, Manel  and Ammar,  Adel  and Koubaa, Anis and Benjdira,  Bilel, and Farah,  Imed Riadh},
+AUTHOR = {Boulila, Wadii and Khazri Khlifi, Manel and Ammar, Adel and Koubaa, Anis and Benjdira, Bilel, and Farah, Imed Riadh},
 TITLE = {A Hybrid Privacy-Preserving Deep Learning Approach for Object Classification in Very High-Resolution Satellite Images},
 JOURNAL = {Remote Sensing},
 VOLUME = {14},
