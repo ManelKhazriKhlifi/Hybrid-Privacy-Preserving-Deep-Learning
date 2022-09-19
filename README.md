@@ -8,3 +8,23 @@ This repository is of the approach designed to encrypt High-resolution remote se
 This model has three steps that are shown below:
 
 ![tree](GA.png)
+
+
+### Citation
+
+If you use any part of this work please cite using the following Bibtex format:
+```
+@Article {rs14184631,
+AUTHOR = {Boulila, Wadii and  Khazri Khlifi, Manel  and Ammar,  Adel  and Koubaa, Anis and Benjdira,  Bilel, and Farah,  Imed Riadh},
+TITLE = {A Hybrid Privacy-Preserving Deep Learning Approach for Object Classification in Very High-Resolution Satellite Images},
+JOURNAL = {Remote Sensing},
+VOLUME = {14},
+YEAR = {2022},
+NUMBER = {18},
+ARTICLE-NUMBER = {4631},
+URL = {https://www.mdpi.com/2072-4292/14/18/4631},
+ISSN = {2072-4292},
+DOI = {10.3390/rs14184631}
+}
+
+'''
