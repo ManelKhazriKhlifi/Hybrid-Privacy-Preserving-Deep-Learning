@@ -7,7 +7,7 @@ This repository is of the approach designed to encrypt High-resolution remote se
 ## Model Detail
 This model has three steps that are shown below:
 
-![tree] (GA.png)
+![tree](GA.png)
 
 First step: encrypt the data with the hybrid PPDL.
 <br />
