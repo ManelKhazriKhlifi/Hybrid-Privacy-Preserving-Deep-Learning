@@ -12,7 +12,7 @@ This model has three steps that are shown below:
 ### Usage
 * Clone the Repository:
 ```ruby
-  
+  git clone https://github.com/Manel-alt-art1/Hybrid-Privacy-Preserving-Deep-Learning.git
 ```
 
 ### Citation
