@@ -14,7 +14,7 @@ This model has three steps that are shown below:
 
 The first step shows the structure of data encryption with hybrid PPDL.
 <br />
-The second step shows the classification of encrypted remote sensing data with CNN models
+The second step shows the classification of encrypted remote sensing data with CNN models.
 <br />
 The third step shows the evaluation of the hybrid PPDL according to some parameters. 
 
