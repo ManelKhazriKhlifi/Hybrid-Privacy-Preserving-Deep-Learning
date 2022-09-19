@@ -7,7 +7,7 @@ This repository is of the approach designed to encrypt High-resolution remote se
 ## Model Detail
 This model has three steps that are shown below:
 
-![alt text] (https://www.mdpi.com/remotesensing/remotesensing-14-04631/article_deploy/html/images/remotesensing-14-04631-ag-550.jpg)
+![tree] (GA.png)
 
 First step: encrypt the data with the hybrid PPDL.
 <br />
