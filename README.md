@@ -2,18 +2,20 @@
 This repository contains the code for the following publication "A Hybrid Privacy-Preserving Deep Learning Approach for Object Classification in Very High-Resolution Satellite Images". Link: https://www.mdpi.com/2072-4292/14/18/4631
  
 ## Brief Description
-This repository is of the approach designed to encrypt High-resolution remote sensing images. It uses a hybrid approach to encrypt the object in remote sensing images. The hybrid PPDL approach utilizes the combination of Partially homomorphic encryption and Somewhat homomorphic encryption from the generated keys. The benefit of this approach is to ensure the privacy of the useful information in the image.
+This repository is the approach designed to encrypt high resolution remote sensing imagery. It uses a hybrid approach to encrypt remote sensing datasets. The hybrid PPDL approach uses the combination of partially homomorphic encryption and somewhat homomorphic encryption from generated keys. The advantage of this approach is to ensure the confidentiality of useful information in the image.
 
-## Model Detail
+## Dataset Details
+
+## Model Details
 This model has three steps that are shown below:
 
 ![tree](GA.png)
 
-First step: encrypt the data with the hybrid PPDL.
+The first step shows the structure of data encryption with hybrid PPDL.
 <br />
-Second step: we use  Resnet50, InceptionV3, DenseNet169, and MobileNetV2  to predict the classification of class data
+The second step shows the classification of encrypted remote sensing data with CNN models
 <br />
-Thirsd step: the evaluation of the hybrid PPDL is based on some parameters. 
+The third step shows the evaluation of the hybrid PPDL according to some parameters. 
 
 ### Requirement
 * Python 3.9.0
@@ -30,7 +32,7 @@ Thirsd step: the evaluation of the hybrid PPDL is based on some parameters.
 change the path in the `Hybrid_PPDL.ipynb` file.
 * Use the model:
 ```ruby
-  python Hybrid_PPDL.ipynb
+   Hybrid_PPDL.ipynb
 ```
 
 ### Citation
