@@ -6,4 +6,5 @@ This repository is of the approach designed to encrypt High-resolution remote se
 
 # Model Detail
 This model has three steps that are shown below:
+
 ![tree](GA.png)
