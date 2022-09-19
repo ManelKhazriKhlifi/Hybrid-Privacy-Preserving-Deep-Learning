@@ -26,6 +26,12 @@ Thirsd step: the evaluation of the hybrid PPDL is based on some parameters.
 ```ruby
   git clone https://github.com/Manel-alt-art1/Hybrid-Privacy-Preserving-Deep-Learning.git
 ```
+* Data: 
+change the path in the 'Hybrid_PPDL.ipynb' file.
+* Use the model:
+```ruby
+  python Hybrid_PPDL.ipynb
+```
 
 ### Citation
 
