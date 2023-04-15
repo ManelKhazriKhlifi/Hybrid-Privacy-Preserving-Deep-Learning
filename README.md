@@ -28,7 +28,7 @@ The third step shows the evaluation of the hybrid PPDL according to some paramet
 ### Usage
 * Clone the Repository:
 ```ruby
-  git clone https://github.com/Manel-alt-art1/Hybrid-Privacy-Preserving-Deep-Learning.git
+  git clone https://github.com/ManelKhazriKhlifi/Hybrid-Privacy-Preserving-Deep-Learning.git
 ```
 * Data: 
 change the path in the `Hybrid_PPDL.ipynb` file.
